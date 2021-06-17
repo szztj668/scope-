@@ -1,0 +1,203 @@
+Executing at Fri Dec  4 15:13:41 2020
+Set channel CH1
+Set channel CH2
+Channel CH2 is not active
+Set channel CH3
+Channel CH3 is not active
+Set channel CH4
+Channel CH4 is not active
+Executing at Fri Dec  4 15:14:41 2020
+Set channel CH1
+Set channel CH2
+Channel CH2 is not active
+Set channel CH3
+Channel CH3 is not active
+Set channel CH4
+Channel CH4 is not active
+Executing at Fri Dec  4 15:15:41 2020
+Set channel CH1
+Set channel CH2
+Channel CH2 is not active
+Set channel CH3
+Channel CH3 is not active
+Set channel CH4
+Channel CH4 is not active
+Executing at Fri Dec  4 15:16:25 2020
+Set channel CH1
+Executing at Fri Dec  4 15:17:25 2020
+Set channel CH1
+Executing at Fri Dec  4 15:18:25 2020
+Set channel CH1
+Executing at Fri Dec  4 15:18:52 2020
+Set channel CH1
+Executing at Fri Dec  4 15:19:52 2020
+Set channel CH1
+Executing at Fri Dec  4 15:20:52 2020
+Set channel CH1
+Executing at Fri Dec  4 15:30:34 2020
+Set channel CH1
+Create new path for writing results
+Saving setup
+Saving waveform for ['CH1']
+Executing at Fri Dec  4 15:31:34 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Fri Dec  4 15:32:34 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Fri Dec  4 15:33:34 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Fri Dec  4 15:52:24 2020
+Set channel CH1
+Executing at Fri Dec  4 15:53:24 2020
+Set channel CH1
+Executing at Fri Dec  4 15:54:24 2020
+Set channel CH1
+Executing at Tue Dec  8 13:11:12 2020
+Set channel CH1
+Executing at Tue Dec  8 13:21:02 2020
+Set channel CH1
+Executing at Tue Dec  8 13:22:02 2020
+Set channel CH1
+Executing at Tue Dec  8 13:23:02 2020
+Set channel CH1
+Executing at Tue Dec  8 13:26:50 2020
+Set channel CH1
+Executing at Tue Dec  8 13:30:11 2020
+Set channel CH1
+Create new path for writing results
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:31:11 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:32:11 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:33:11 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:42:33 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 4
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:43:33 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:44:33 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 13:45:33 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 14:16:03 2020
+Set channel CH1
+Executing at Tue Dec  8 14:17:03 2020
+Set channel CH1
+Executing at Tue Dec  8 14:18:03 2020
+Set channel CH1
+Executing at Tue Dec  8 14:40:54 2020
+Set channel CH1
+Executing at Tue Dec  8 15:00:31 2020
+Set channel CH1
+Executing at Tue Dec  8 15:20:44 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 12
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:21:44 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:22:44 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:23:44 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:29:41 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 16
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:30:41 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:31:41 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:32:41 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:33:48 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 20
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:34:52 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 21
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 15:35:52 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 16:48:59 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 23
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 16:53:54 2020
+Set channel CH1
+Create new path for writing results
+Start to write from index 24
+Saving setup
+Saving waveform for ['CH1']
+Executing at Tue Dec  8 16:54:54 2020
+Set channel CH1
+Saving setup
+Saving waveform for ['CH1']
+Executing at Wed Jun 16 15:10:09 2021
+Choose one of the four channels, e.g. CH1
+Error format, ex: get_waveform('CH1')
+Choose one of the four channels, e.g. CH1
+Error format, ex: get_waveform('CH1')
+Choose one of the four channels, e.g. CH1
+Error format, ex: get_waveform('CH1')
+Choose one of the four channels, e.g. CH1
+Error format, ex: get_waveform('CH1')
+Choose one of the four channels, e.g. CH1
+Choose one of the four channels, e.g. CH1
+Choose one of the four channels, e.g. CH1
+Choose one of the four channels, e.g. CH1
+Executing at Wed Jun 16 15:51:21 2021
+Choose one of the four channels, e.g. CH1
+Error format, ex: get_waveform('CH1')
+Choose one of the four channels, e.g. CH1
+Executing at Thu Jun 17 14:42:51 2021
+Choose one of the four channels, e.g. CH1
+Error format, ex: get_waveform('CH1')
+Choose one of the four channels, e.g. CH1
